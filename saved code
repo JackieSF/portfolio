@@ -1,0 +1,47 @@
+<main>
+                <div>
+                     
+                    <article>
+                        <p>
+                            My name is Jaclane Felix, but I go by Jackie. I'm an extroverted introvert is that makes sense. I tend to be very quiet and observant, but I'm not afraid to voice my opinions. I have a daughter who's a year and a half now, and she is my pride and joy. 
+                            I got through a year of college (I majored in Kinesiology) before I got pregant and dropped out afterwards. I've spent the past couple of years working different jobs on and off, but nothing too crazy.
+                            I realised quickly though, that I needed to find a new path for myself because I was not living the quality of life I had always envisioned for myself as well as the family I've started to build. 
+                        </p>
+                    </article>
+                    <article>
+                        <table>
+                            <tr>
+                                <th></th>
+                                <th scope="col">General Info</th>
+                            </tr>
+                            <tr>
+                                <th scope="row">Age:</th>
+                                <td>21</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Email:</th>
+                                <td> <Address> <a href="mailto:jaclanesf@gmail.com"> Jaclanesf@gmail.com </a></Address> </td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Location:</th>
+                                <td>Boston, MA</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Things I love:</th>
+                                <td>
+                                    <ul>
+                                        <li>
+                                            My daughter
+                                        </li>
+                                        <li>
+                                            Anything sweet, baked and/or loaded with carbs
+                                        </li>
+                                        <li>
+                                            Foreign Snacks and Street Food
+                                        </li>
+
+
+                                    </ol>
+                                </td>
+                            </tr>
+                        </table>
